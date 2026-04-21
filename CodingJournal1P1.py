@@ -1,0 +1,1 @@
+print("My name is Anay Durgude.\nI use any pronouns.\nMy favorite movie is The Lego Movie as I love the characters and comedy./nMy favorite food is probably Ice Cream.")
